@@ -9,7 +9,7 @@ components  of the page and use class selectors where appropriate.   */
 
 .clearfix::after {
   content: "";
-  display: table;
+  /*display: table;*/
   clear: both;
 }
 

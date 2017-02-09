@@ -21,6 +21,7 @@
  .icon-menu {
    font-size: 3em;
    float: right;
+   display:inline;
  }
 
  .main-nav {
@@ -64,10 +65,10 @@
  }*/
 
  Hide the hamburger
- @media only screen and (min-width: 1000px) {
-   /*.icon-menu {
-     visibility: hidden;
-     }*/
+ @media only screen and (min-width: 640px) {
+   .icon-menu {
+     display:
+     }
    .main {
      display: inline-block;
      padding: 10%;
