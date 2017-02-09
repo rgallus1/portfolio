@@ -65,9 +65,9 @@
 
  Hide the hamburger
  @media only screen and (min-width: 1000px) {
-   .icon-menu {
+   /*.icon-menu {
      visibility: hidden;
-     }
+     }*/
    .main {
      display: inline-block;
      padding: 10%;
